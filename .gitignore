@@ -2,7 +2,8 @@
 .cache
 dist/
 build/
-*assets/
+*assets
+
 
 # Windows thumbnail cache files
 Thumbs.db
