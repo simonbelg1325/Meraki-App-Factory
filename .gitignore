@@ -2,8 +2,7 @@
 .cache
 dist/
 build/
-*assets
-
+*assets/
 
 # Windows thumbnail cache files
 Thumbs.db
@@ -45,10 +44,10 @@ dw_php_codehinting.config
 
 # Modules #
 ###########
-node_modules
-npm_modules
-bower_components
-_webdata
+node_modules/
+npm_modules/
+bower_components/
+_webdata/
 
 
 
