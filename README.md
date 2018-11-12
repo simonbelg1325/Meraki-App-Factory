@@ -13,6 +13,11 @@ As David explained:
 
 - System Requirement
 
+| User Interface              | System Requirement           |
+| --------------------------- | ---------------------------- |
+| Content from cell 1         | Content from cell 2          |
+| Content in the first column | Content in the second column |
+
 - Extra information
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
